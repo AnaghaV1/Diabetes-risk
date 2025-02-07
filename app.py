@@ -1,18 +1,20 @@
+import streamlit as st  # ✅ Import Streamlit FIRST
 import os
-st.write(f"Current Working Directory: {os.getcwd()}")
-st.write(f"Files in Directory: {os.listdir()}")
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import statsmodels.api as sm
-import streamlit as st
 from sklearn.metrics import roc_curve
+
+# Debugging: Check File Path
+st.write(f"Current Working Directory: {os.getcwd()}")
+st.write(f"Files in Directory: {os.listdir()}")
 
 # Load dataset (Make sure 'data.csv' is in the same GitHub repo)
 @st.cache
 def load_data():
-    return pd.read_excel("./data.xlsx")
+    return pd.read_csv("./data.csv")
 
 data = load_data()
 
