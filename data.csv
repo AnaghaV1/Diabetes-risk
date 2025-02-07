@@ -1,0 +1,739 @@
+Patient_Name,HTN_code,TSH_Code,HDL_code,HOMA2B_code,HOMA2IR_code,HsCRP_code,BMI_code,Predicted probability,Diabetestype_code
+Mr. Vinayak Goenka (INT 75),1,2,1,2,2,1,2,0.60,1
+Mr. Varun Vaidhyanathan (INT 65),2,2,2,2,2,2,1,0.85,1
+Mr. Yash Naik (INT 71),2,2,2,2,1,2,1,0.56,1
+Mr. Aniket Mahadev Mohite (INT 71),2,2,1,1,1,2,2,0.01,1
+Mr. Rajnish Singh (INT 91),2,1,2,2,2,1,1,0.82,1
+Mr. Amit Mishra (INT 78),1,2,1,1,2,1,2,0.01,1
+Mr. Saikiran Mallappa K (INT 86),2,2,1,1,2,2,1,0.02,1
+Mr. Yash Sunil (INT 78),2,2,1,1,1,1,2,0.01,1
+Mr. Vishwesh Satyanarayan Rathi (INT 74),1,2,2,1,2,2,1,0.03,1
+Mr. Manjunath R V (INT 97),2,2,1,1,2,2,1,0.02,1
+Mr. Akash Kumar Singh (INT 64),2,2,1,1,2,2,1,0.02,1
+Mr. Akashdip Mondal (INT 97),2,2,1,2,2,1,1,0.57,1
+Mr. Shailesh Kamat (INT 68),1,2,2,2,1,2,1,0.40,1
+Mr. Akshay Bhosale (INT 97),2,2,1,2,1,1,2,0.40,1
+Mr. Tejas Pravin Biwalkar (INT 88),2,2,1,2,2,1,2,0.74,1
+Mr. Aaditya Rajiv Bavadekar (INT 70),2,2,1,2,2,2,2,0.83,1
+Mr. Siddharth Gupta (INT 97),2,2,2,1,2,2,1,0.05,1
+Mr. Dinesh Chander Raj (INT 87),2,2,1,1,2,2,1,0.02,1
+Mr. Sangram Dilip Sagar (INT 89),2,2,1,2,1,1,1,0.24,1
+Mr. Chetan Padmakar Zambare (INT 83),2,2,1,2,1,1,1,0.24,1
+Mr. Patrick Xavier Eruva (INT 90),2,2,1,2,1,1,2,0.40,1
+Mr. Balapanuru Sandeep (INT 94),2,2,1,2,2,1,2,0.74,1
+Mr. Aman Nema (INT 91),2,2,2,2,2,2,1,0.85,1
+Mr. Shishir Yadav (INT 73),2,2,1,1,2,2,1,0.02,1
+Mr. Vachaspati Joshi (INT 96),1,2,2,1,2,2,1,0.03,1
+Mr. Amey Todankar (INT 81),1,2,2,2,2,2,1,0.75,1
+Mr. Lakshmankumar S Sugumar (INT 71),2,2,2,1,2,1,1,0.03,1
+Mr. Somesh Raykar (INT 65),1,2,1,1,2,1,1,0.01,1
+Mr. Sharanakumar Dwaranahalli (INT 87),2,2,1,2,2,1,1,0.57,1
+Mr. Angad Shekhar Khandekar (INT 79),2,2,2,1,2,1,1,0.03,1
+Mr. Ravi Rameshkumar Shastri (INT 79),2,2,1,1,2,1,1,0.01,1
+Mr. Lokesha K S (INT 86),1,2,1,1,2,2,1,0.01,1
+Mr. Nishant Srivastava (INT 84),1,2,1,1,2,2,1,0.01,1
+Mr. Srikanth Beespally (INT 74),1,2,1,1,2,2,1,0.01,1
+Mr. Partha Sarathi Panda (INT 74),2,2,1,2,2,1,1,0.57,1
+Mr. Sumit Kumar Mohanty (INT 86),2,2,2,1,2,2,1,0.05,1
+Mr. Kamal Premchand Hirani (INT 78),2,2,1,2,1,1,2,0.40,1
+Mr. Ajeetkumar Ramsamhar Vihwakarma (INT 88),2,2,2,1,2,2,1,0.05,1
+Mr. Prashant Dattatray Hase (INT 75),2,2,1,2,2,2,1,0.70,1
+Mr. Prasad Dusi (INT 90),2,1,2,1,2,1,1,0.04,1
+Mr. Suresh Kumar (INT 68),2,2,2,2,1,2,2,0.73,1
+Mr. Ranjit Narayan Pillai (INT 85),2,2,2,2,2,1,1,0.76,1
+Mr. Anil Thapliyal (INT 78),2,2,2,1,2,2,1,0.05,1
+Mr. Ballamurugan S (INT 68),1,2,1,1,2,1,1,0.01,1
+Mr. Uday Kumar J (INT 88),2,2,2,1,2,2,2,0.10,1
+Mr. Vinod S (INT 75),1,2,1,2,2,2,1,0.55,1
+Mr. Neeraj Ramesh Gupta (INT 69),2,2,1,1,2,2,1,0.02,1
+Mr. Amal Joseph (INT 87),1,2,1,2,2,1,1,0.42,1
+Mr. Vinayak Dnyandeo Patil (INT 88),2,2,1,1,2,1,1,0.01,1
+Mr. Yusufali Allabax Nimbargi (INT 76),2,2,2,1,2,2,1,0.05,1
+Mr. Rajendra Rana (INT 85),2,2,2,2,1,2,1,0.56,1
+Mr. Praful Chandra Yadav (INT 88),2,2,2,1,2,1,2,0.06,1
+Mr. Niranjan Kamath (INT 81),1,2,2,2,1,2,1,0.40,1
+Mr. Raheem S Mohd (INT 80),2,2,1,1,2,1,2,0.03,1
+Mr. Bhaskar H Eppili (INT 80),2,2,1,1,2,2,1,0.02,1
+Mr. Amit Periwal (INT 64),2,2,1,1,2,2,1,0.02,1
+Mr. Paresh Agrawal (INT 84),2,2,1,1,2,2,1,0.02,1
+Mr. Prashant R Badiger (INT 84),1,2,1,1,2,2,1,0.01,1
+Mr. Nilesh Girishbhai Malaviya (INT 71),2,2,2,2,2,1,1,0.76,1
+Mr. Anand Manikutty (INT 68),2,1,1,2,2,1,1,0.66,1
+Mr. Amol Kshirsagar (INT 94),1,2,1,1,2,1,2,0.01,1
+Mr. Parin Shah (INT 59),1,2,2,2,2,1,1,0.63,1
+Mr. Manish Kumar Shah (INT 91),1,2,2,2,2,1,1,0.63,1
+Mr. Rahul Pednekar (INT 64),2,2,2,1,2,1,1,0.03,1
+Mr. Ravi Kumar (INT 72),1,2,1,2,1,1,1,0.14,1
+Mr. Senthil Arumugam Somasundaram (INT 71),2,2,1,2,2,1,1,0.57,1
+Mr. Peddapatlolla Srikanth Reddy (INT 76),2,2,1,2,1,1,1,0.24,1
+Mr. Vikas Dwivedi (INT 70),2,2,1,2,2,1,1,0.57,1
+Mr. S Jayathirtha (INT 62),2,2,1,1,2,2,2,0.04,1
+Mr. Ravindra Anil Kamat (INT 84),2,2,1,2,2,1,1,0.57,1
+Mr. Kamal Raj Arora (INT 82),2,1,2,1,2,2,2,0.13,1
+Mr. Vishal Singhal (INT 79),2,2,2,1,2,1,1,0.03,1
+Mr. Vinay Sharma (INT 78),1,2,2,2,2,1,1,0.63,1
+Mr. Sudhir Nayar (INT 78),2,2,2,1,2,1,1,0.03,1
+Mr. Ramesh Venkateswaran (INT 63),1,2,1,2,2,1,1,0.42,1
+Mr. Somasundaram Suburayalu (INT 88),2,2,2,1,2,2,1,0.05,1
+Mr. Pankish Goel (INT 72),1,2,1,2,2,2,1,0.55,1
+Mr. Vikas Gupta (INT 84),1,2,1,1,2,1,2,0.01,1
+Mr. Srinivas Soma (INT 63),1,2,2,1,2,2,1,0.03,1
+Mr. Santosh Shelar (INT 59),1,2,2,2,2,2,2,0.86,1
+Mr. Rajesh Ranjan Sinha (INT 81),2,2,1,1,2,1,1,0.01,1
+Dr. Devashish Dasgupta (INT 84),1,2,2,1,2,2,2,0.05,1
+Mr. Apurva Padmakar Deshmukh (INT 82),2,2,1,2,2,2,1,0.70,1
+Mr. Rajesh Sadashiv Patwardhan (INT 83),2,2,1,1,2,1,1,0.01,1
+Mr. Anil Kumar (INT 93),1,2,1,1,2,2,1,0.01,1
+Mr. Ajay Gautam (INT 73),2,2,2,2,1,2,1,0.56,1
+Captain. Piyush Kant Khare (INT 64),1,2,1,2,2,1,1,0.42,1
+Mr. Jagdish Dudhawadkar (INT 63),2,2,2,1,2,2,1,0.05,1
+Mr. Bhanudas Mahajan (INT 65),1,2,1,1,2,2,1,0.01,1
+Mr. Ravindra Ambardekar (INT 61),1,2,1,2,2,2,1,0.55,1
+Mr. Aman Dutt Jha (INT 77),1,2,2,2,2,2,1,0.75,1
+Mr. Raj G Kumar (INT 68),1,1,2,1,2,1,2,0.04,1
+Mr. Ashwin Manjeshwar (INT 92),2,2,1,2,2,1,1,0.57,1
+Mr. Upendra S Gupte (INT 74),1,2,1,1,1,2,1,0.00,1
+Mr. Sameer Tipnis (INT 67),1,2,1,1,2,2,1,0.01,1
+Mr. Ravi Venkatakrishnan S (INT 79),1,2,1,2,1,2,2,0.38,1
+Mr. Rajesh Kapoor (INT 69),1,2,2,1,2,1,2,0.03,1
+Mr. S Govindkrishna (INT 62),2,1,2,1,2,2,1,0.07,1
+Mr. Kameswara rao Chinta (INT 75),2,2,1,2,1,2,1,0.35,1
+Mr. Harish Shetty (INT 95),1,2,1,1,1,2,2,0.01,1
+Mr. Subramanian Dorairajan (INT 78),2,2,1,2,2,2,1,0.70,1
+Mr. Venkata Ratnam Velivela (INT 77),2,1,2,1,2,1,1,0.04,1
+Dr. Rohit Kanchan (INT 96),1,2,2,1,2,2,1,0.03,1
+Mr. Yashwant Singh Rathore (INT 69),1,2,1,1,2,1,1,0.01,1
+Mr. Suvendu Mahapatra (INT 68),1,1,2,1,2,2,1,0.04,1
+Mr. Kamalakar Damodar Attarde (INT 88),2,2,2,1,2,2,1,0.05,1
+Ms. Tanaya Kulkarni (INT 91),2,2,1,1,2,1,1,0.01,1
+Ms. Kuhu Chaitanya Puranik (INT 72),2,2,1,2,2,1,1,0.57,1
+Ms. Jyothi Sathya Narayana (INT 85),2,2,1,2,1,1,1,0.24,1
+Ms. Reshma Nair (INT 90),2,1,1,1,2,1,2,0.03,1
+Ms. Ridhi Sharma (INT 59),2,2,1,1,2,1,1,0.01,1
+Ms. Ruchica Singh (INT 72),2,1,1,1,2,1,2,0.03,1
+Mrs. Tejaswini Rayana (INT 87),1,2,1,1,2,1,2,0.01,1
+Ms. Vishakha Bansal (INT 85),2,2,1,1,2,1,2,0.03,1
+Ms. Vaishnavi Hemant Gaikwad (INT 86),2,2,1,2,1,1,2,0.40,1
+Mrs. Dipali Chimate (INT 97),2,2,1,1,2,1,1,0.01,1
+Ms. Prachi Arun Kadam (INT 90),2,2,1,1,2,1,1,0.01,1
+Ms. Yashi Kashiv (INT 90),2,2,1,1,2,2,1,0.02,1
+Ms. Ankita Dixit (INT 59),2,2,1,1,1,1,2,0.01,1
+Mrs. Chaithra B R (INT 82),2,2,1,1,2,1,1,0.01,1
+Mrs. Vaishnavi Vadiraj Kasbe (INT 77),2,1,1,2,1,2,2,0.61,1
+Mrs. Preethi Pathak (INT 76),2,2,1,1,2,2,1,0.02,1
+Ms. Alankrutha T (INT 96),2,1,1,2,2,1,2,0.80,1
+Mrs. Rhujuta Abhishek Padwad (INT 96),2,1,1,1,2,1,2,0.03,1
+Mrs. Simantini Gaurav Joshi (INT 90),2,2,2,2,1,2,1,0.56,1
+Ms. Pratibha Daulat Gourkhede (INT 80),2,2,1,1,2,1,1,0.01,1
+Mrs. Mohana Priya (INT 77),2,2,1,1,2,2,1,0.02,1
+Ms. Ketki Nitin Joshi (INT 84),2,2,1,2,1,1,2,0.40,1
+Mrs. Namrata Shunkar (INT 78),2,2,1,1,2,2,1,0.02,1
+Ms. Pooja Thomas (INT 97),1,2,1,1,2,1,1,0.01,1
+Ms. Shruti Suresh Ainapure (INT 67),1,2,1,2,2,1,1,0.42,1
+Mrs. Anupreethi Kempaiyanaicker Sundara Raj (INT 92),2,2,1,2,1,1,2,0.40,1
+Ms. Priyanka Goel (INT 61),2,1,1,2,2,1,2,0.80,1
+Ms. Dhanashree A Oak (INT 87),2,2,1,2,1,2,2,0.53,1
+Mrs. Sumedha Rajput (INT 59),2,2,2,2,2,1,2,0.87,1
+Mrs. Nithi Pathak Rajshekhar (INT 78),2,2,1,2,1,1,1,0.24,1
+Mrs. Avani Khurana (INT 97),2,2,1,1,2,1,2,0.03,1
+Mrs. Saeba Ali (INT 76),2,2,1,2,2,1,2,0.74,1
+Ms. Rasika Vinod Vemulkar (INT 88),2,1,1,1,1,1,2,0.01,1
+Mrs. Pallavi Bhagat (INT 88),2,2,1,2,1,1,2,0.40,1
+Mrs. Rani Kumari (INT 97),1,2,1,1,2,1,2,0.01,1
+Dr. Nishita Parag Patel (INT 90),2,2,1,1,2,1,1,0.01,1
+Mrs. Nivedita Nagappa (INT 78),2,2,1,2,2,1,1,0.57,1
+Dr. Namrata Suresh Ramnaney (INT 87),2,2,1,1,2,1,2,0.03,1
+Mrs. Ramyashree BR (INT 88),2,2,1,2,1,1,2,0.40,1
+Mrs. Mallika Vishwakarma (INT 96),2,1,1,2,2,1,1,0.66,1
+Mrs. Suhita Koustubh Deshpande (INT 84),2,2,1,2,2,1,1,0.57,1
+Dr. Parsis Harsh Raj (INT 78),2,2,2,1,2,2,1,0.05,1
+Mrs. Vaishnavi Vijay (INT 80),2,2,1,1,1,1,2,0.01,1
+Ms. Lavanya U (INT 70),2,1,1,2,1,1,2,0.48,1
+Mrs. Supriya Waikar (INT 97),2,2,2,2,2,1,1,0.76,1
+Mrs. Rashmi Vishwasrao (INT 62),2,1,1,2,2,2,1,0.77,1
+Mrs. Priyanka Omkar Agarkar (INT 80),1,2,1,1,2,1,1,0.01,1
+Mrs. Mugdha Pol (INT 66),1,2,1,2,2,1,2,0.60,1
+Mrs. Gayatri Sagar Thakur (INT 88),2,2,1,2,2,2,1,0.70,1
+Mrs. Deepika Pagariya (INT 91),2,2,1,1,2,1,2,0.03,1
+Mrs. Pooja Amey Unde (INT 78),1,2,1,1,1,2,2,0.01,1
+Mrs. Poornima Pabbisetti (INT 80),2,2,1,1,2,2,1,0.02,1
+Mrs. Shreya Shalini (INT 75),2,2,1,2,2,2,1,0.70,1
+Mrs. Apurva Nachiket Dabhadkar (INT 66),2,1,1,2,1,1,2,0.48,1
+Ms. Krushna Yashwant Patil (INT 73),2,2,1,1,2,1,1,0.01,1
+Mrs. Arpitha R Gargesh (INT 78),2,1,1,2,2,1,1,0.66,1
+Mrs. Shanthi Sriadibhatla (INT 92),2,2,1,1,2,1,2,0.03,1
+Mrs. Fariya Ameer (INT 94),1,1,1,1,2,1,1,0.01,1
+Mrs. Anamika Yadavrao (INT 88),2,2,1,1,2,1,1,0.01,1
+Dr. Madhavi Verma (INT 73),2,2,1,1,2,1,1,0.01,1
+Mrs. Shwetali Swapnil Jadhav (INT 91),2,2,2,1,2,1,1,0.03,1
+Mrs. Shweta Chandak (INT 63),2,2,1,1,2,1,2,0.03,1
+Mrs. Alpa Dixit (INT 90),2,2,1,1,2,2,1,0.02,1
+Mrs. Akshata Ameya Deshpande (INT 74),2,2,1,2,2,1,2,0.74,1
+Mrs. Madhvi Krunal Gohil (INT 86),1,2,1,2,2,1,1,0.42,1
+Mrs. Smita pradeep Honnatti (INT 67),2,2,1,1,2,1,2,0.03,1
+Mrs. Niranchala Thangapandy Nadar (INT 84),2,1,1,2,2,1,1,0.66,1
+Mrs. Priti P Agarwal (INT 89),1,1,1,1,2,1,2,0.02,1
+Ms. Vinisha Halli (INT 87),2,1,1,2,2,1,2,0.80,1
+Mrs. Seeta   Krishnan (INT 87),2,2,1,2,2,2,1,0.70,1
+Mrs. Sanjot Prabhat Shejwal (INT 97),2,2,1,2,2,1,1,0.57,1
+Dr. Madhuri Dipak Wani (INT 71),2,1,1,2,2,2,2,0.87,1
+Mrs. Sheetal Rai (INT 94),2,2,1,1,2,2,1,0.02,1
+Mrs. Nagamani Ravulapalli (INT 89),2,2,2,1,2,1,2,0.06,1
+Mrs. Radhika Naren (INT 96),2,2,1,1,2,1,2,0.03,1
+Ms. Shruthi Raj (INT 62),2,2,2,2,2,1,1,0.76,1
+Mrs. Neha Chopra (INT 88),2,2,1,2,2,1,2,0.74,1
+Dr. Reshma Thote (INT 66),2,1,1,1,2,2,1,0.03,1
+Mr. Vijay Simha Adoni (INT 67),2,2,1,1,2,1,1,0.01,1
+Mrs. Ramyasri Ramyasri (INT 81),2,2,1,1,2,1,2,0.03,1
+Mrs. Roshni H Shah (INT 73),1,1,1,1,2,1,2,0.02,1
+Mrs. Ketaki Srivastava (INT 82),2,2,1,2,1,1,2,0.40,1
+Mrs. Poonam D Patel (INT 90),2,1,2,1,2,1,1,0.04,1
+Mrs. Geetanjali Mayuresh Gokhale (INT 80),2,2,1,1,2,1,2,0.03,1
+Mrs. Nuzhat Jahan (INT 73),2,1,2,1,2,1,2,0.08,1
+Mrs. Salima sohil Chamadia (INT 79),2,2,1,1,2,1,2,0.03,1
+Mrs. Akshata Kale (INT 68),2,2,1,2,2,2,1,0.70,1
+Mrs. Vidya Badrinath (INT 74),2,2,2,1,2,2,1,0.05,1
+Mrs. Archana Rao (INT 78),2,1,1,2,1,1,1,0.30,1
+Mrs. Payal Yadav (INT 87),2,2,2,1,2,2,1,0.05,1
+Mrs. Jiby Jiby (INT 91),2,2,2,1,2,1,1,0.03,1
+Mrs. Ashwini Vasireddy (INT 71),1,2,1,2,2,1,2,0.60,1
+Mrs. Varsha Ingle (INT 66),2,2,1,2,2,1,1,0.57,1
+Mrs. Varsha Ingle (INT 66),2,2,1,2,2,1,1,0.57,1
+Mrs. Rimi Chatterjee (INT 77),2,1,2,2,2,1,2,0.91,1
+Ms. Lalitha M G (INT 80),2,1,1,1,2,1,2,0.03,1
+Mrs. Nisha Kumari (INT 84),1,2,1,1,2,2,1,0.01,1
+Mrs. Sphoorti R Parvati (INT 86),1,2,2,1,2,1,1,0.02,1
+Mrs. Rajalaxmi Sahu (INT 66),2,2,1,2,1,1,1,0.24,1
+Mrs. Aparna Vaidhyanarayanan (INT 78),2,2,1,1,1,1,2,0.01,1
+Mrs. Pratibha Shashikant Nanaware (INT 75),2,2,1,2,1,2,1,0.35,1
+Ms. Aboli Vishnu Naik (INT 87),2,2,1,1,2,1,1,0.01,1
+Mrs. Aarti Iyer (INT 68),1,2,1,1,2,1,2,0.01,1
+Mrs. Naheed Khan (INT 84),2,2,1,2,2,1,1,0.57,1
+Mrs. Spoorti Soragavi (INT 81),2,2,2,1,1,1,2,0.01,1
+Mrs. Krupali Mahesh Sharma (INT 70),2,2,1,1,2,1,1,0.01,1
+Dr. Deepti Ashish Kumar Wagh (INT 67),2,2,1,2,2,1,2,0.74,1
+Mrs. Chaitra Nshimoga (INT 62),2,2,1,2,1,1,2,0.40,1
+Mrs. Rupali Malayaj Hartalkar (INT 96),2,2,1,1,2,1,1,0.01,1
+Mrs. Lakshmi Pillai (INT 60),2,2,1,2,2,1,2,0.74,1
+Mrs. Anju Doongarakhe (INT 60),1,2,1,2,1,1,2,0.26,1
+Mrs. Ramya Shankar (INT 97),2,2,1,1,2,2,2,0.04,1
+Mrs. Aasha Venkatachalapathi (INT 95),2,2,1,1,1,1,2,0.01,1
+Mrs. Jameelabe T (INT 72),2,2,1,2,2,1,1,0.57,1
+Mrs. Rekha Chaudhary (INT 82),2,2,1,2,2,1,1,0.57,1
+Mrs. Nivedita N Koppalkar (INT 82),2,2,1,2,1,1,2,0.40,1
+Mrs. Sasmita Pattnayak (INT 61),2,1,2,2,2,1,2,0.91,1
+Mrs. Savitha B G Pradeep (INT 71),2,2,1,1,2,2,1,0.02,1
+Mrs. Supriya Lakshmi (INT 59),2,2,1,1,2,1,1,0.01,1
+Mrs. Ganga Ganga (INT 66),1,2,1,1,2,1,2,0.01,1
+Mrs. Asmita Abhijit Tambe (INT 92),1,2,1,1,2,1,1,0.01,1
+Ms. Punitha Sharma (INT 74),1,2,2,1,2,1,1,0.02,1
+Dr. Shubhangi Ambadekar (INT 64),2,2,1,2,2,1,2,0.74,1
+Mrs. Smita Rajesh Charde (INT 71),2,2,1,1,2,1,1,0.01,1
+Mrs. Lakshmi Sujatha (INT 61),2,2,1,2,1,2,1,0.35,1
+Mrs. Christine Arrora (INT 70),2,1,1,1,2,1,1,0.02,1
+Ms. Disha Jagoorie (INT 62),2,1,1,2,2,1,2,0.80,1
+Mrs. Gayatri Manoj Kulkarni (INT 85),2,2,1,1,2,2,1,0.02,1
+Mrs. Maryamma (Bijitha) Joseph (INT 79),2,2,1,1,2,2,1,0.02,1
+Mrs. Meenu Nishant Singh (INT 83),2,2,1,1,2,1,1,0.01,1
+Dr. Pooja Grover (INT 82),1,2,1,1,2,2,2,0.02,1
+Mrs. Roopa Edison Pinto (INT 79),2,2,2,1,2,1,1,0.03,1
+Mrs. Manali Neelesh Wadke (INT 69),2,2,1,2,2,2,2,0.83,1
+Mrs. Rashmi Pathak (INT 66),1,2,1,2,1,2,2,0.38,1
+Mrs. Shital Shripad Kortikar (INT 86),2,2,1,2,2,2,2,0.83,1
+Mrs. Manjusha Sumit Shrivastava (INT 77),2,2,2,2,2,1,1,0.76,1
+Mrs. Hemalatha Prasanna (INT 89),2,2,1,1,2,1,1,0.01,1
+Mrs. Jasmine Mushtaq Shaikh (INT 96),2,2,1,1,2,2,1,0.02,1
+Mrs. Seema Deepak Mattur (INT 71),2,2,1,1,2,1,1,0.01,1
+Mrs. Monika Gupta (INT 70),2,2,1,1,1,1,2,0.01,1
+Mrs. Sathyapriya Shrikanth Rao (INT 96),2,2,1,1,2,2,1,0.02,1
+Mrs. Swarna Latha Shivanna (INT 74),2,2,1,1,2,1,1,0.01,1
+Mrs. Sheetal Sandeep Kale (INT 72),1,1,2,1,2,2,1,0.04,1
+Mrs. Seema Mishra Thrilok (INT 71),2,1,1,1,2,1,2,0.03,1
+Mrs. Ashwini Amol Chaubal (INT 77),1,2,1,1,2,1,1,0.01,1
+Ms. Annapurna Pathi (INT 65),1,2,1,1,2,2,1,0.01,1
+Mrs. Meera Omkar Shetty (INT 76),2,2,2,2,1,2,1,0.56,1
+Mrs. Bhairavi Raj (INT 77),2,2,1,1,2,1,2,0.03,1
+Mrs. Pooja Singhal (INT 71),2,2,1,2,2,1,2,0.74,1
+Mrs. Seema N Rao (INT 62),2,2,1,1,2,1,1,0.01,1
+Mrs. Deepthi Acharya (INT 59),2,2,1,1,2,2,2,0.04,1
+Mrs. Shashi Gupta (INT 68),1,2,1,2,2,2,2,0.72,1
+Mrs. Rachana Tejas Chokshi (INT 87),2,1,2,1,2,1,2,0.08,1
+Mrs. Shikha Sanjeev Jain (INT 75),2,2,1,1,2,2,1,0.02,1
+Mrs. Sunila S l (INT 79),2,2,1,2,1,1,2,0.40,1
+Mrs. Supriti Sharma (INT 65),2,2,1,2,1,1,2,0.40,1
+Mrs. Rupali Umashankar AnkiReddi (INT 74),2,2,1,2,2,1,2,0.74,1
+Mrs. Harini Narayanan (INT 78),2,1,1,2,2,2,1,0.77,1
+Ms. Dipanwita Kanchan Chakrabarti (INT 96),2,2,2,1,2,1,2,0.06,1
+Mrs. Ragathushara G (INT 68),2,1,2,2,2,1,2,0.91,1
+Mrs. Anjana Nair (INT 66),2,2,1,1,1,1,2,0.01,1
+Mrs. Poonam Jubin Jhaveri (INT 60),2,2,1,1,2,1,2,0.03,1
+Mrs. Rajni Singh (INT 92),2,1,1,1,2,2,1,0.03,1
+Mrs. Shubhangi Anand Deshpande (INT 88),2,2,1,1,2,2,1,0.02,1
+Mrs. Pallavi Veeresh Karnik (INT 86),1,2,1,2,1,2,1,0.22,1
+Ms. Hema Chandraprakash Misra (INT 76),2,2,2,2,2,2,2,0.92,1
+Ms. Sandhyashree P (INT 97),2,1,1,1,1,1,1,0.00,1
+Mrs. Deepthi Mudigonda (INT 95),2,2,1,1,2,1,1,0.01,1
+Mrs. Roopali Joshi (INT 61),2,2,1,1,2,1,1,0.01,1
+Mrs. Veena Omkar Shetty (INT 74),2,2,1,2,1,1,1,0.24,1
+Mrs. Vaishali Rahul Darekar (INT 72),2,1,1,2,2,2,1,0.77,1
+Mrs. Prachi Worlikar (INT 80),2,2,1,2,2,1,2,0.74,1
+Mrs. Urvashi Vadher (INT 62),2,2,2,1,2,2,2,0.10,1
+Dr. Waseem Fatima Siddiqui (INT 61),1,1,1,1,2,2,2,0.03,1
+Mrs. Varsha Gangurde (INT 63),2,2,1,1,2,1,1,0.01,1
+Dr. Aparna Narasimha (INT 89),2,1,1,2,2,2,1,0.77,1
+Ms. Sonia Fernandes (INT 73),1,2,1,1,2,1,2,0.01,1
+Mrs. Vidyulatha sanjay Yellore (INT 63),1,1,1,2,2,2,1,0.64,1
+Mrs. Barkha Yadav (INT 82),2,1,1,2,2,1,2,0.80,1
+Mrs. Solly Sony (INT 90),1,2,1,1,2,1,2,0.01,1
+Mrs. SUBHA S (INT 97),2,2,1,1,2,2,1,0.02,1
+Mrs. Vaishali Gadhe (INT 59),2,2,2,1,2,1,1,0.03,1
+Mrs. Pallavi Shailendra Mandrawadkar (INT 88),2,2,1,1,2,1,1,0.01,1
+Mrs. Surekha G J (INT 83),2,2,1,2,1,1,1,0.24,1
+Mrs. Padmapriya Balaraman (INT 68),2,2,1,1,2,1,2,0.03,1
+Mrs. Shraddha Dinkar Palaskar (INT 73),2,1,1,1,1,2,1,0.01,1
+Mrs. Nisha Goradia (INT 65),1,2,1,1,2,2,1,0.01,1
+Ms. Swati Kamlakar Vilankar (INT 73),1,2,1,1,2,1,2,0.01,1
+Mrs. Sindhu Praveen Sekhar (INT 79),2,2,1,1,1,1,2,0.01,1
+Mrs. Ramya Srinivasan (INT 63),2,2,1,2,2,2,1,0.70,1
+Mrs. Esther Ninan (INT 67),2,2,2,1,2,1,1,0.03,1
+Mrs. Sridevi Madhukar (INT 76),1,2,1,2,1,2,2,0.38,1
+Mrs. Shilpa Purohit (INT 88),2,1,1,1,2,2,2,0.06,1
+Mrs. Nitu AGARWAL (INT 71),2,2,1,1,1,1,2,0.01,1
+Mrs. Lalitha Kannan (INT 83),2,1,1,2,1,1,2,0.48,1
+Mrs. Alka Rathi (INT 77),1,2,1,2,2,1,2,0.60,1
+Mrs. Kumudini Rajendra Zore (INT 92),1,1,1,1,2,2,1,0.02,1
+Mrs. Charanjit Kaur Sandhu (INT 73),1,2,1,2,1,1,2,0.26,1
+Mrs. Meetha Ponnappa (INT 87),1,2,1,1,2,2,1,0.01,1
+Mrs. Vijaya Khanolkar (INT 79),2,2,2,2,2,2,1,0.85,1
+Mrs. Sangita Hanumant Bhoite (INT 88),2,2,1,1,1,1,1,0.00,1
+Mrs. Bijal Paresh Shah (INT 81),2,2,1,1,2,1,2,0.03,1
+Ms. Mini K John (INT 80),1,2,1,2,2,1,2,0.60,1
+Mrs. Rajul Jain (INT 73),2,1,2,1,2,1,1,0.04,1
+Dr. Surekha Sandeep Gundre (INT 90),2,2,1,2,2,2,2,0.83,1
+Ms. Priya Subramanian (INT 74),1,1,2,2,2,1,2,0.84,1
+Ms. Kirti S Sikri (INT 82),2,1,2,2,2,1,2,0.91,1
+Mrs. Bharti Paryank Pandya (INT 75),2,1,1,2,2,1,1,0.66,1
+Mrs. Aarti Samir Bapat (INT 97),1,2,1,2,2,1,1,0.42,1
+Mrs. Nilopher Yogendra Bhandari (INT 88),2,2,1,1,1,2,1,0.00,1
+Mrs. Bernadette Roche (INT 95),2,2,1,1,2,2,2,0.04,1
+Mrs. Sarita Gaur (INT 80),2,2,1,1,2,2,1,0.02,1
+Mrs. Kaveri Deepak Mulay (INT 90),2,2,1,2,2,1,2,0.74,1
+Mrs. Nilima Agarwal (INT 80),1,2,1,2,1,1,2,0.26,1
+Mrs. Needha anil Krishnan (INT 93),1,1,1,1,2,1,2,0.02,1
+Mrs. Geeta V Vijaykumar (INT 97),1,2,1,2,1,2,2,0.38,1
+Mrs. Parul Vakharia (INT 97),1,2,1,1,2,2,1,0.01,1
+Mrs. Maneesha A Agarwal (INT 71),1,2,1,1,2,2,1,0.01,1
+Mrs. Surekha Mahesh Hannurkar (INT 70),1,2,2,2,2,2,2,0.86,1
+Mrs. Sonia Sethi (INT 61),1,1,1,1,2,2,2,0.03,1
+Mrs. Vasushree More (INT 97),1,2,2,1,1,1,1,0.00,1
+Mrs. Rekha Rajendra Singh (INT 87),1,2,1,2,2,2,2,0.72,1
+Mrs. Shaon Mitra (INT 77),2,2,1,1,2,2,1,0.02,1
+Mrs. Deepta Arora (INT 60),1,1,1,1,2,1,1,0.01,1
+Mrs. Sharda Vishwas Ghare (INT 87),1,2,2,2,2,1,2,0.78,1
+Mrs. Amita Gupta (INT 91),1,2,1,1,1,2,2,0.01,1
+Mrs. Sunita Anchaliya (INT 66),1,1,1,2,1,2,2,0.46,1
+Ms. Garima Agrawal (INT 65),1,2,2,2,2,2,2,0.86,1
+Mrs. Sarasu pillai Velayudhan (INT 82),1,2,2,1,2,1,1,0.02,1
+Mrs. Jaya Nalwaya (INT 74),1,1,1,2,2,2,2,0.79,1
+Ms. Neeta Pandey (INT 89),1,1,1,1,2,1,2,0.02,1
+Mrs. Ashwini Chaudhari (INT 66),2,2,1,1,2,1,1,0.01,1
+Mrs. Richa Gaurav Saxena (INT 80),1,2,1,2,2,1,2,0.60,1
+Mrs. Vaishali Mungurwadi (INT 74),2,2,2,2,2,1,1,0.76,1
+Dr. Madhavi Penmetcha (INT 96),2,2,1,1,2,1,2,0.03,1
+Mrs. Usha Naresh Raman (INT 70),1,2,1,1,2,1,2,0.01,1
+Mrs. Hema Venkateswaran Iyer (INT 84),1,1,2,2,2,1,1,0.71,1
+Mrs. Nikhat Bhure (INT 66),2,2,2,2,2,2,2,0.92,1
+Mrs. Kalaiselvi K Saravanan (INT 74),1,1,2,1,2,1,1,0.02,1
+Mrs. Sonali Anand Deshpande (INT 87),2,2,1,2,2,2,1,0.70,1
+Mrs. Kirti Budhrani (INT 83),1,2,1,1,2,2,2,0.02,1
+Mrs. Divya Chaturvedi (INT 71),2,1,2,1,1,2,1,0.02,1
+Mrs. Anbarasi Jayakumar (INT 76),1,2,1,1,2,1,1,0.01,1
+Mrs. Tanuja Ganesh Swamy (INT 72),1,2,1,2,1,1,2,0.26,1
+Mrs. Jayasree Srinivasan (INT 75),2,2,1,1,2,1,1,0.01,1
+Mrs. Rajashree M S (INT 67),2,2,2,1,2,1,1,0.03,1
+Ms. Jagruti Rajnikant Shah (INT 77),1,2,2,2,2,1,1,0.63,1
+Mrs. Manju Sisodia (INT 74),2,2,2,1,2,2,1,0.05,1
+Mrs. Jaishree Sridhar (INT 79),1,2,1,2,2,1,1,0.42,1
+Mrs. Kala B Pillai (INT 71),2,2,1,1,2,2,1,0.02,1
+Mrs. Rajeswari Babu (INT 60),1,2,1,2,1,2,2,0.38,1
+Mrs. Alka Alka (INT 94),1,2,2,2,2,1,2,0.78,1
+Mrs. Rachna Harish Shringhey (INT 68),2,2,1,1,2,1,1,0.01,1
+Mrs. Renu Dashora (INT 63),1,2,1,1,2,1,1,0.01,1
+Mrs. Jayshree Inani (INT 96),1,2,1,2,2,2,2,0.72,1
+Mrs. Surekha Rajendra Kumar (INT 59),2,2,1,1,2,1,1,0.01,1
+Mrs. Nandini Nalkur (INT 67),2,2,1,1,2,1,1,0.01,1
+Mrs. Jayalakshmi Srikumar (INT 92),1,1,1,1,2,2,2,0.03,1
+Mrs. Bhuvaneswari Venkataraman (INT 84),1,2,2,2,2,2,1,0.75,1
+Mrs. Meenakshi Rajagopalan (INT 60),1,2,2,1,2,1,1,0.02,1
+Mrs. Anjali Anant Pandit (INT 69),1,2,2,2,2,2,2,0.86,1
+Mrs. Sandhya Krishnan (INT 63),1,2,2,1,2,1,2,0.03,1
+Ms. Shamim Akhtar (INT 66),2,1,1,1,2,1,2,0.03,1
+Mr. Vivek Sridhar (INT 90),2,1,1,2,2,2,1,0.77,0
+Mr. Jatin Jain (INT 72),2,2,2,2,2,1,2,0.87,0
+Mr. Mihir Bharmal (INT 63),2,2,2,2,2,2,2,0.92,0
+Mr. Vikram Srinivasan (INT 96),2,2,1,2,2,1,2,0.74,0
+Mr. Vamsikrishna Sridhar Devsani (INT 97),2,2,2,2,1,2,2,0.73,0
+Mr. Aryaman Shaan (INT 79),2,2,1,2,1,1,2,0.40,0
+Mr. Aadesh Guru Bhakt Dandamudi (INT 79),2,2,2,2,2,1,1,0.76,0
+Mr. Kaushik Anand (INT 71),2,1,2,2,2,2,2,0.94,0
+Mr. Shreyansh Nanda (INT 84),2,2,2,2,1,1,2,0.61,0
+Mr. Aditya Anirudh Kulkarni (INT 68),2,2,1,2,2,2,1,0.70,0
+Mr. Aditya Chandra Madam (INT 64),2,2,1,2,2,2,1,0.70,0
+Mr. Jay Gupta (INT 96),2,2,2,2,2,2,2,0.92,0
+Mr. Sayi Krishna Sunder (INT 76),2,2,2,2,2,2,2,0.92,0
+Mr. Pranav Kabra (INT 68),1,1,2,2,2,1,2,0.84,0
+Mr. Piyush Jain (INT 63),2,2,2,2,2,1,2,0.87,0
+Mr. Bhupinder Singh Jassal (INT 80),2,2,2,2,2,2,2,0.92,0
+"Mr. Dileep Ramesh	 Varier (INT 91)",2,2,2,2,2,1,2,0.87,0
+Mr. Pujit Tiwari (INT 74),2,2,2,2,1,1,2,0.61,0
+Mr. Alokik Kumar (INT 75),2,2,1,2,2,1,2,0.74,0
+Mr. Maanas Vibhu (INT 90),2,2,2,2,2,2,2,0.92,0
+Mr. Rohit Sudhakar Patil (INT 77),2,2,1,2,1,2,2,0.53,0
+Mr. Saphaldeep Tirkey (INT 64),2,2,2,2,2,1,2,0.87,0
+Mr. Abhishek Praful Shende (INT 87),2,1,2,2,2,2,2,0.94,0
+Mr. Bhargav Singiri (INT 85),2,2,2,2,2,2,1,0.85,0
+Mr. Kartik Misra (INT 78),1,2,1,2,2,1,2,0.60,0
+Mr. Dharmin Solanki (INT 59),2,2,1,2,1,2,2,0.53,0
+Mr. Ramanathan G (INT 77),1,2,2,2,2,1,2,0.78,0
+Mr. Akshat Gupta (INT 75),1,2,1,2,2,2,2,0.72,0
+Mr. Amit Anant Kulkarni (INT 73),2,2,1,2,2,2,1,0.70,0
+Mr. Abhishek Choudhary (INT 96),2,2,2,2,2,1,2,0.87,0
+Mr. Pankhil Garg (INT 81),2,2,1,2,2,1,2,0.74,0
+Mr. Narasimha Reddy V (INT 87),2,2,1,2,2,2,2,0.83,0
+Mr. Harish Chandrasekaran (INT 93),2,2,2,2,1,2,2,0.73,0
+Mr. Gunjan Priyadarshi (INT 70),1,1,1,2,2,2,1,0.64,0
+Mr. Ravinder Khokhar (INT 86),2,1,2,2,2,1,2,0.91,0
+Mr. Atul Hanumant Bhagwat (INT 93),1,2,2,2,2,1,2,0.78,0
+Mr. Hari Prasad C M (INT 76),2,1,2,2,1,1,1,0.51,0
+Mr. Alexander Varghese Kolath (INT 97),1,2,1,2,2,1,1,0.42,0
+Mr. Pankaj Pagarani (INT 62),2,2,1,2,2,2,2,0.83,0
+Mr. Sujeet Kumar Govindaraju (INT 88),2,2,1,2,2,1,2,0.74,0
+Mr. Hemant Kumar Porwal (INT 91),2,2,1,2,2,1,2,0.74,0
+Mr. Mangesh Dange (INT 63),2,2,1,2,2,1,2,0.74,0
+Mr. Anil Kumar Tanakanti (INT 92),1,2,1,2,2,2,1,0.55,0
+Mr. Awdhesh Kumar (INT 80),1,2,2,2,2,1,1,0.63,0
+Mr. Smit Shah (INT 62),1,2,2,2,2,2,2,0.86,0
+Mr. Nagesh Nagaram (INT 64),1,2,2,2,1,1,2,0.45,0
+Mr. Ravi Raju Whabi (INT 88),1,2,2,2,1,1,1,0.28,0
+Mr. Satyaprakash Samantaray (INT 62),2,2,2,1,2,2,1,0.05,0
+Mr. Mohammed Sadiq Imam (INT 67),2,2,2,2,2,1,2,0.87,0
+Mr. Manish Mishra (INT 65),1,2,2,2,2,2,1,0.75,0
+Mr. Santosh Matam (INT 79),1,2,1,2,2,1,1,0.42,0
+Mr. Virendra Nath Tiwari (INT 63),2,1,1,2,2,1,2,0.80,0
+Mr. Vaibhav Shrikant Joshi (INT 80),2,2,1,2,2,1,1,0.57,0
+Mr. Ashish Jagdish Nainani (INT 84),1,2,2,2,2,2,1,0.75,0
+Mr. HariKrishna Lingamallu (INT 75),1,2,1,2,2,2,1,0.55,0
+Mr. Praveen TVS (INT 88),2,2,2,2,1,1,2,0.61,0
+Mr. Shrawan Kapila (INT 60),1,2,2,2,1,1,2,0.45,0
+Mr. Manish Dhamani (INT 78),2,2,1,2,2,1,1,0.57,0
+Mr. Suchir Kumar B G (INT 85),1,2,2,2,2,2,1,0.75,0
+Mr. Adarsh Singh (INT 79),2,2,2,2,2,1,2,0.87,0
+Mr. Samir Bharat Savla (INT 79),2,2,2,2,2,2,1,0.85,0
+Mr. Mukesh Mehta (INT 85),1,2,2,2,2,2,2,0.86,0
+Mr. Ashudeep Garg (INT 69),2,2,2,2,2,1,2,0.87,0
+Mr. Chethan Sundar Kumar Anand (INT 69),1,2,1,2,1,1,1,0.14,0
+Mr. Neeraj Gupta (INT 67),2,2,2,2,1,1,1,0.42,0
+Mr. Kedar Madhav Kelkar (INT 78),2,2,2,2,2,2,1,0.85,0
+Mr. RAJIV JYOTI BAKSHI (INT 97),2,2,1,2,2,2,2,0.83,0
+Mr. Rajesh Ram  Hukkeri (INT 78),2,2,2,2,2,1,1,0.76,0
+Mr. Rahul Pal (INT 67),2,2,2,2,2,2,1,0.85,0
+Mr. Avaneesh Akhoury (INT 86),2,2,2,2,2,1,1,0.76,0
+Mr. Nilanjon Gupta (INT 74),1,2,1,2,2,1,2,0.60,0
+Mr. Jayant Amrut Joshi (INT 76),2,2,1,2,2,2,2,0.83,0
+Mr. Magesh Mannargudi Sambasivan (INT 72),2,2,1,2,2,2,1,0.70,0
+Mr. Devaraju Nagaraju (INT 72),2,2,2,2,2,2,1,0.85,0
+Mr. Srinivas V Venkateshan (INT 79),2,2,1,2,2,2,2,0.83,0
+Mr. Chetan Ratilal Patel (INT 71),2,2,2,2,2,1,2,0.87,0
+Mr. Sunil Kumar Daga (INT 95),2,1,2,2,1,2,2,0.79,0
+Mr. Harminder Singh Hooghan (INT 80),2,2,2,2,2,1,2,0.87,0
+Mr. Amit Jain (INT 75),2,2,2,2,2,2,2,0.92,0
+Mr. Shashi Kumar B S (INT 87),1,2,2,2,1,1,2,0.45,0
+Mr. Sharathchandra B Inamdar (INT 82),2,1,2,2,2,2,1,0.89,0
+Mr. Jatin Shah (INT 59),1,2,1,2,2,2,2,0.72,0
+Mr. Vipin Lunawat (INT 80),1,2,1,2,2,1,2,0.60,0
+Mr. Aman Yakub Rajabali (INT 74),1,2,2,2,2,1,1,0.63,0
+Mr. Nagaraj Prasadh (INT 68),2,2,2,2,2,2,2,0.92,0
+Dr. Anand Raman (INT 89),2,2,2,2,2,2,1,0.85,0
+Mr. Sanjay Singh (INT 63),2,2,2,2,2,2,1,0.85,0
+Mr. Shreekumar R Nair (INT 80),2,2,2,2,2,2,1,0.85,0
+Mr. Sanjeev Kumar Garrepelly (INT 68),1,2,2,2,2,2,2,0.86,0
+Mr. Sanjeev Kumar Gulati (INT 80),2,2,1,2,2,2,2,0.83,0
+Mr. Raj Kumar Sharma (INT 67),1,2,2,2,2,2,1,0.75,0
+Mr. Srinivasan Thalainalaisamy (INT 62),1,2,1,2,2,2,1,0.55,0
+Mr. Vinod Aravindan (INT 91),2,2,2,2,2,2,1,0.85,0
+Mr. Jeffry A Pereira (INT 80),1,2,2,2,2,2,1,0.75,0
+Mr. Arvind P G (INT 70),2,1,2,2,2,2,1,0.89,0
+Mr. Nitin Kachalia (INT 64),2,2,2,2,2,2,2,0.92,0
+Mr. Rajesh Kamath (INT 60),2,1,2,2,2,2,1,0.89,0
+Mr. Mohammad Abdul Arif (INT 87),1,2,2,2,2,2,1,0.75,0
+Mr. Sunil Lakhote (INT 67),1,2,2,2,1,1,2,0.45,0
+Mr. Ranvir R Shah (INT 62),1,2,1,2,2,2,1,0.55,0
+Mr. Raghu Hudli (INT 59),2,2,1,2,2,2,1,0.70,0
+Mr. Satish Janardan (INT 66),1,1,2,2,2,2,1,0.81,0
+Mr. Samander Singh Rana (INT 73),1,1,1,2,2,2,2,0.79,0
+Mr. Jagannathan Sridharan (INT 59),1,1,1,2,2,2,1,0.64,0
+Mr. M S Diwakar (INT 62),1,2,2,2,2,1,1,0.63,0
+Mr. RAMNATH H K (INT 81),1,1,2,2,2,1,2,0.84,0
+Ms. Diya Thomas (INT 63),2,2,1,2,2,1,2,0.74,0
+Ms. Geetanjali Nityanand Singh (INT 70),2,2,1,2,2,2,2,0.83,0
+Ms. Aparna K Phanse (INT 80),2,2,1,2,2,2,2,0.83,0
+Ms. Annie Judith (INT 81),2,2,1,2,2,1,2,0.74,0
+Ms. Niharika Chandra (INT 90),2,2,1,2,2,1,2,0.74,0
+Ms. Shivangi Mittal (INT 90),2,2,1,2,1,1,1,0.24,0
+Ms. Pritika Taneja (INT 70),2,2,1,2,2,1,2,0.74,0
+Ms. Nayantara Teresa Joseph (INT 90),2,2,1,2,2,1,2,0.74,0
+Ms. Janvi Sheth (INT 65),2,2,1,2,2,1,2,0.74,0
+Ms. Apoorva Patil (INT 71),2,2,1,2,2,2,1,0.70,0
+Ms. Pankhuri Sharma (INT 79),2,1,1,2,2,1,2,0.80,0
+Mrs. Ayesha Sanjay Sharma (INT 73),2,2,1,2,1,2,1,0.35,0
+Ms. Shreya Shashikant More (INT 79),2,2,1,2,2,1,2,0.74,0
+Mrs. Harini Srinivasan (INT 72),2,2,1,2,2,2,2,0.83,0
+Ms. Sreevidya M (INT 62),2,2,2,2,2,1,2,0.87,0
+Mrs. Gudipalli Pravallika (INT 90),2,2,1,2,2,1,2,0.74,0
+Mrs. Devayani Vikas Kulkarni (INT 78),2,2,1,2,2,1,2,0.74,0
+Ms. Yashaswini S Shivarudrappa (INT 72),2,1,1,2,2,1,1,0.66,0
+Mrs. Unnatha Suraj (INT 67),2,2,1,2,2,1,2,0.74,0
+Ms. Snigdha Khetan (INT 94),2,2,1,2,2,1,2,0.74,0
+Ms. Devayani Dasharath Bhosale (INT 67),2,2,1,2,2,2,1,0.70,0
+Ms. Suhita Hore (INT 73),2,2,1,2,2,1,2,0.74,0
+Mrs. Harshada Anand Shete (INT 88),2,2,1,2,1,1,2,0.40,0
+Dr. Prachi Mathur (INT 93),2,2,1,2,2,1,2,0.74,0
+Ms. Ishita Gosalpuria (INT 79),2,1,1,2,2,1,2,0.80,0
+Ms. Shipraa Ashish Tanna (INT 73),2,2,1,2,1,2,2,0.53,0
+Mrs. Angeli Vishal Verma (INT 72),2,1,1,2,2,1,2,0.80,0
+Mrs. Chaithra Adiga S (INT 75),2,2,1,2,1,1,2,0.40,0
+Mrs. Ayushee Pandey (INT 68),2,1,1,2,2,1,2,0.80,0
+Mrs. Anjaly Vivek Hareendran (INT 66),2,1,1,2,2,1,2,0.80,0
+Ms. Raveena Thapa (INT 68),2,2,1,2,2,1,2,0.74,0
+Dr. Priyamvadha Govindrajan Bhatta (INT 62),2,2,1,2,2,1,2,0.74,0
+Dr. Vaidehi Milind Datar (INT 72),2,2,1,2,1,2,2,0.53,0
+Mrs. Preeti Rajput (INT 62),1,2,2,2,2,1,2,0.78,0
+Ms. Ritika Chaudhury (INT 79),2,2,2,2,2,1,2,0.87,0
+Mrs. Suchi Sipra Padhi (INT 74),2,1,1,2,2,1,1,0.66,0
+Ms. Luciana Pinto Ribeiro (INT 76),2,2,1,2,2,2,2,0.83,0
+Ms. Tanvvi Goel (INT 73),2,1,2,2,2,2,1,0.89,0
+Ms. Komal Prabhu Akulwar (INT 91),2,2,1,2,2,1,1,0.57,0
+Ms. Manasi Anil Patil (INT 65),2,2,1,2,2,2,1,0.70,0
+Mrs. Shivangi Mehta (INT 81),2,2,2,2,2,1,2,0.87,0
+Mrs. Rashmi Ramchandra Prabhu (INT 81),2,2,1,2,2,1,2,0.74,0
+Mrs. Pragathi P (INT 84),2,2,2,2,2,1,2,0.87,0
+Mrs. Deepika . (INT 69),2,1,2,2,2,1,2,0.91,0
+Mrs. Vasantha Lakshmi (INT 64),2,1,1,2,2,1,2,0.80,0
+Mrs. Khushboo Ritesh Jain (INT 83),2,1,1,2,2,1,2,0.80,0
+Mrs. Preeti Garg (INT 93),2,2,1,2,2,2,1,0.70,0
+Mrs. Ratna Lalitha Yekula (INT 96),2,2,1,2,2,1,2,0.74,0
+Ms. Anupama H N (INT 90),2,2,2,2,2,1,1,0.76,0
+Mrs. Vrushali Bharekar (INT 78),2,1,2,2,1,1,2,0.69,0
+Mrs. Avantika Gupta (INT 87),1,2,2,2,2,1,2,0.78,0
+Mrs. Richa Srivastava (INT 69),2,2,2,2,2,2,1,0.85,0
+Mrs. Priyanka A Mone (INT 80),2,2,2,2,2,2,2,0.92,0
+Mrs. Srishti Attri (INT 69),2,2,1,2,2,2,2,0.83,0
+Ms. Reema Ashok Wanwari (INT 93),2,2,1,2,2,1,1,0.57,0
+Mrs. Aditi Gangrade (INT 95),2,2,1,2,2,1,2,0.74,0
+Mrs. Jayashree Sridharan (INT 69),2,1,1,2,2,2,1,0.77,0
+Mrs. Sneha Santosh (INT 73),2,2,1,2,2,2,2,0.83,0
+Mrs. Ramya K L (INT 67),2,1,1,2,2,2,1,0.77,0
+Ms. Satarupa Das (INT 97),1,2,2,2,2,1,2,0.78,0
+Mrs. Kanupriya Garg (INT 76),2,1,1,2,2,1,1,0.66,0
+Ms. Vaishali R Garg (INT 93),2,2,1,2,2,1,1,0.57,0
+Mrs. Sanehlata Sanehlata (INT 77),2,2,1,2,2,2,1,0.70,0
+Mrs. Garima Gupta (INT 68),2,1,1,2,2,2,2,0.87,0
+Mrs. Hemlata Kothari (INT 83),1,2,1,2,2,1,1,0.42,0
+Mrs. Archana Balaji (INT 90),2,2,1,2,2,1,2,0.74,0
+Mrs. Smriti Vats (INT 96),2,2,1,2,2,2,2,0.83,0
+Mrs. Swetha M (INT 61),2,1,1,2,2,1,2,0.80,0
+Mrs. Anitha Jadhav (INT 84),2,2,1,2,2,1,2,0.74,0
+Dr. Swati Gondane (INT 63),2,2,1,2,2,1,1,0.57,0
+Mrs. Champaka Vaideeswaran (INT 77),2,1,1,2,2,1,2,0.80,0
+Mrs. Suruchi Chaudhary (INT 73),2,2,1,2,2,2,1,0.70,0
+Mrs. Swatilekha Ghosh (INT 65),2,2,1,2,2,1,2,0.74,0
+Mrs. Sheetal Parag Sathe (INT 95),2,2,1,2,2,2,2,0.83,0
+Mrs. Sirisha Bhagavatula (INT 97),2,1,1,2,1,1,2,0.48,0
+Mrs. Ashwini Banasi (INT 84),2,1,1,2,2,1,2,0.80,0
+Mrs. Anjali Rao (INT 96),2,2,1,2,2,2,2,0.83,0
+Mrs. Sowmya Jaya Amin (INT 94),2,2,1,2,2,2,1,0.70,0
+Mrs. Madhura Desai (INT 78),2,2,2,2,2,1,1,0.76,0
+Ms. Japnit Kaur (INT 93),2,1,2,2,2,1,2,0.91,0
+Mrs. Kousalya Poduri (INT 71),2,2,1,2,1,1,2,0.40,0
+Ms. Adithi Gorur (INT 86),2,2,2,2,1,2,2,0.73,0
+Mrs. Rekha Agarwal (INT 63),2,2,1,2,2,2,1,0.70,0
+Mrs. Harshna Mota (INT 97),2,2,1,2,2,1,2,0.74,0
+Mrs. Srividya Kosalram (INT 72),2,1,1,1,2,2,1,0.03,0
+Mrs. Ritika Vohra (INT 60),2,2,1,2,2,1,2,0.74,0
+Dr. Shweta . Caroli (INT 74),2,1,1,2,2,1,1,0.66,0
+Ms. Priyal Anant Sathe (INT 81),2,2,1,2,2,2,1,0.70,0
+Mrs. Sayali Godbole (INT 68),2,2,1,2,2,2,2,0.83,0
+Mrs. Sneha Amit Mahadik (INT 81),2,1,1,2,2,1,2,0.80,0
+Mrs. Ravuluri Laksmi Archana (INT 96),2,1,1,2,2,2,1,0.77,0
+Mrs. Archana Namboodiri (INT 82),1,1,1,2,2,1,1,0.50,0
+Mrs. Aparna Uppala (INT 64),2,1,1,2,2,2,2,0.87,0
+Mrs. Vinotha J (INT 76),2,1,1,2,2,2,2,0.87,0
+Mrs. Deepika Khanna (INT 67),2,2,1,2,2,1,1,0.57,0
+Mrs. Srilakshmi Manoj (INT 92),1,1,2,2,2,2,1,0.81,0
+Mrs. Poorva Abhishek Sule (INT 66),2,2,1,2,2,1,1,0.57,0
+Mrs. Suchitra Deshmukh (INT 59),2,2,1,2,2,2,1,0.70,0
+Ms. Damini Jhunjhunwala (INT 59),2,2,1,2,2,2,2,0.83,0
+Ms. Madhulata Madanlal Sharma (INT 75),2,1,1,2,2,1,2,0.80,0
+Mrs. Divvisha Shivkumar Jirafe (INT 93),2,2,2,2,2,1,1,0.76,0
+Mrs. Parul Mehra (INT 78),2,2,1,2,2,1,2,0.74,0
+Mrs. Geeja Sara George (INT 82),2,2,2,2,1,1,2,0.61,0
+Mrs. Nishtha J Sharma (INT 68),2,2,1,2,1,1,2,0.40,0
+Mrs. Himani Jain (INT 83),2,1,1,2,2,2,1,0.77,0
+Mrs. Sreelakshmi Tammaji Rao (INT 88),1,1,2,2,2,2,2,0.90,0
+Mrs. Pravina Kalpesh Patel (INT 92),1,1,1,2,2,1,2,0.68,0
+Mrs. Neha Singh (INT 68),1,1,2,2,2,1,1,0.71,0
+Mrs. Bharti Bhani Taneja (INT 86),2,2,1,2,2,2,1,0.70,0
+Mrs. Vijaya R Bhat (INT 94),2,1,2,2,2,1,1,0.82,0
+Mrs. Samradny Kahar (INT 78),2,2,2,2,2,1,2,0.87,0
+Mrs. Priya Srivastava (INT 78),2,1,1,2,2,1,1,0.66,0
+Mrs. Shilpy Katoch (INT 65),2,1,1,2,2,2,1,0.77,0
+Mrs. Anjali Santosh Gurram (INT 78),2,2,2,2,2,1,2,0.87,0
+Dr. Aditi Santosh Gaikwad (INT 71),2,2,2,2,2,2,2,0.92,0
+Mrs. Revathi Deepu (INT 95),1,1,1,2,2,1,2,0.68,0
+Mrs. Laxmi Singh (INT 88),2,1,2,2,2,2,1,0.89,0
+Mrs. Vandana Dixit (INT 62),2,2,1,2,2,2,1,0.70,0
+Mrs. Boskey Chamria (INT 59),2,1,1,2,2,2,1,0.77,0
+Mrs. Veeralakshmi Sundaram (INT 68),2,1,1,2,2,2,1,0.77,0
+Mrs. Asmita Javdekar (INT 94),2,2,1,2,2,2,1,0.70,0
+Dr. Roopali Pande (INT 90),2,2,2,2,2,2,1,0.85,0
+Mrs. Vijayalaxmi Haveri (INT 67),2,2,2,2,2,1,1,0.76,0
+Mrs. Swinjal Jayesh Tank (INT 71),2,2,2,2,2,1,2,0.87,0
+Mrs. Manisha Jain (INT 80),2,2,2,2,2,1,1,0.76,0
+Mrs. Tarana Aga (INT 66),2,2,1,2,2,1,2,0.74,0
+Mrs. Anisha Lal (INT 65),2,2,1,2,2,2,1,0.70,0
+Mrs. Neisha Arya Saxena (INT 75),2,2,1,2,2,1,1,0.57,0
+Mrs. Jyoti Devendra Bharambe (INT 78),2,2,1,2,2,2,1,0.70,0
+Mrs. Aarti Santosh Vaidya (INT 90),2,1,1,2,2,2,2,0.87,0
+Mrs. Harini NC (INT 96),2,2,1,2,2,1,2,0.74,0
+Mrs. Sowmya Amirtha Ganesh (INT 74),2,2,2,2,2,1,1,0.76,0
+Mrs. Priya Ragupathy (INT 77),2,1,1,2,2,1,2,0.80,0
+Mrs. Ashwini Ram Pankey (INT 59),2,1,1,2,2,1,2,0.80,0
+Mrs. Shubhra Singh (INT 81),2,2,1,2,2,1,2,0.74,0
+Mrs. Lakshmi P Eduru (INT 80),2,2,1,2,2,2,2,0.83,0
+Ms. Vaishali Shrikant Joshi (INT 79),2,2,1,2,2,1,1,0.57,0
+Mrs. Palak Trivedi (INT 60),2,2,2,2,2,1,2,0.87,0
+Mrs. Silpa Nugula (INT 97),1,1,2,2,2,2,1,0.81,0
+Mrs. Sarika Vijay (INT 59),2,2,2,2,2,1,1,0.76,0
+Mrs. Vijaya Nataraj (INT 79),2,2,1,2,1,2,2,0.53,0
+Mrs. Lakshmi Ramanarayanan (INT 80),1,2,1,2,2,1,2,0.60,0
+Mrs. Vijayalakshmi M M (INT 72),2,1,2,2,2,2,2,0.94,0
+Mrs. Shwetha Balgi (INT 60),2,2,1,2,2,1,1,0.57,0
+Mrs. Sweta Singh (INT 76),1,2,1,2,2,1,1,0.42,0
+Ms. Lavanya D (INT 89),2,1,1,2,2,2,2,0.87,0
+Mrs. Purnima Pandey (INT 76),2,2,1,2,2,1,1,0.57,0
+Mrs. Nilima Manjrekar (INT 61),2,1,2,2,2,1,1,0.82,0
+Mrs. Sangeeta Rajesh Chaudhari (INT 91),2,1,1,1,2,2,1,0.03,0
+Mrs. Kamini Dushyant Parmar (INT 79),2,2,1,2,2,1,2,0.74,0
+Mrs. Vidya Venugopal Hungud (INT 87),2,1,1,2,2,2,1,0.77,0
+Mrs. Nitya Ravi (INT 88),2,2,1,2,2,2,2,0.83,0
+Mrs. Rutuja Kulkarni (INT 68),2,2,1,2,2,2,1,0.70,0
+Mrs. Swarnalatha Balakrishnan (INT 75),2,2,1,2,2,1,2,0.74,0
+Dr. Vidya Dhananjay Danave (INT 82),2,2,1,2,2,2,2,0.83,0
+Mrs. Pooja Manish Shastri (INT 95),2,2,1,2,2,1,1,0.57,0
+Mrs. Seema Rohira (INT 65),2,1,2,2,1,1,2,0.69,0
+Mrs. Smita Patil (INT 61),2,2,1,2,1,2,1,0.35,0
+Mrs. Deepti R Sahu (INT 71),2,2,1,2,2,1,2,0.74,0
+Mrs. Arundhati pranjal Joshi (INT 88),2,1,2,2,2,1,2,0.91,0
+Mrs. Saanvi Deshmukh (INT 67),2,1,2,2,2,1,1,0.82,0
+Mrs. Ruchika Khetan (INT 67),2,2,1,2,2,1,2,0.74,0
+Mrs. Anshu Sharma (INT 68),2,2,2,2,2,2,2,0.92,0
+Mrs. Archana Vivekanand Patil (INT 95),2,2,2,2,1,1,1,0.42,0
+Mrs. Latha L Dara (INT 77),2,2,1,2,2,2,2,0.83,0
+Mrs. Pallavi Desai (INT 90),2,2,1,2,2,2,1,0.70,0
+Mrs. Radhika Khetan (INT 62),2,2,2,2,2,1,2,0.87,0
+Mrs. Nithya Santhanam (INT 84),2,2,1,2,2,2,1,0.70,0
+Mrs. Ritu Rohit Mehra (INT 74),2,1,2,2,2,1,2,0.91,0
+Mrs. Mittal C. Bhensjariya (INT 61),1,1,2,2,2,2,1,0.81,0
+Mrs. Superna Misri (INT 72),2,2,2,2,2,2,2,0.92,0
+Mrs. Kousalya Tarimala (INT 90),2,1,1,2,2,2,2,0.87,0
+Mrs. Shubha Churiwal (INT 67),2,2,1,2,1,1,1,0.24,0
+Mrs. Meeta Prakash Thakkar (INT 85),2,1,1,2,2,2,1,0.77,0
+Mrs. Suchita Pathak (INT 64),1,2,1,2,2,2,2,0.72,0
+Ms. Pooja Prakash Singh (INT 74),2,2,2,2,2,2,2,0.92,0
+Mrs. Anjali Shashikant Ghorpade (INT 75),2,2,1,2,2,1,2,0.74,0
+Mrs. Sahana Deviprasad (INT 72),2,2,2,2,2,2,2,0.92,0
+Mrs. Swati Totala (INT 71),1,2,1,2,2,1,2,0.60,0
+Mrs. Pushpa Latha Gangireddy (INT 79),2,2,1,2,2,1,2,0.74,0
+Mrs. Priya Variar (INT 85),2,2,2,2,2,1,1,0.76,0
+Mrs. Nandita Nagori (INT 65),2,1,1,2,2,1,2,0.80,0
+Mrs. SONIKA SONI KHAR (INT 66),1,2,1,2,2,2,1,0.55,0
+Mrs. Gayathri Palaparthi (INT 91),2,2,1,2,2,1,2,0.74,0
+Mrs. Srilatha M S (INT 97),2,2,1,2,2,1,2,0.74,0
+Dr. Varsha Vilas Tribhuwan (INT 63),2,2,1,1,2,2,2,0.04,0
+Mrs. Shirin Khan (INT 61),2,2,1,2,2,2,2,0.83,0
+Ms. Niranjana Pillai Balasundaram (INT 95),2,2,2,2,2,2,1,0.85,0
+Mrs. Jayashri Kulkarni (INT 87),2,2,2,2,2,2,2,0.92,0
+Mrs. Sandhya Kishor Shirbhate (INT 71),1,2,2,2,2,2,1,0.75,0
+Mrs. Vaishali Girish Mudgal (INT 94),2,2,1,2,2,2,2,0.83,0
+Mrs. Seema Mukul  Gupta (INT 77),2,1,1,2,2,1,2,0.80,0
+Mrs. Rinnku P Patel (INT 88),1,1,1,2,2,1,2,0.68,0
+Mrs. Parul Agarwal (INT 91),2,1,2,2,2,2,1,0.89,0
+Mrs. Rashmi Unni (INT 87),2,2,2,2,2,2,2,0.92,0
+Mrs. Priyanka Gupta (INT 93),2,2,1,2,2,2,1,0.70,0
+Dr. Sunita Ajay Burande (INT 74),2,2,1,2,2,2,1,0.70,0
+Mrs. Sumati Chaturvedi (INT 68),2,2,1,2,2,2,1,0.70,0
+Mrs. Prita sanjiv Panicker (INT 91),2,1,2,2,2,2,1,0.89,0
+Mrs. Jyotsna Lohana Dvivedi (INT 90),2,2,2,2,2,1,1,0.76,0
+Mrs. Prachi Yadav (INT 66),2,2,2,2,2,1,1,0.76,0
+Mrs. Rashmi Gudage (INT 72),2,2,1,2,2,2,1,0.70,0
+Mrs. Neha Kotak (INT 67),2,2,2,2,2,1,2,0.87,0
+Mrs. Rashmi Katiyar (INT 62),2,1,1,2,2,2,1,0.77,0
+Mrs. Suchita Jirage (INT 70),2,2,1,2,2,1,2,0.74,0
+Mrs. Sripriya Nandhakumar (INT 65),1,1,1,2,2,1,2,0.68,0
+Ms. Nikita Sinha (INT 96),2,2,2,2,2,2,2,0.92,0
+Mrs. Savitha Raghuram (INT 73),2,2,2,2,2,2,2,0.92,0
+Mrs. Tanaz Sidhwa (INT 78),2,2,1,2,2,1,2,0.74,0
+Mrs. Sheela M Koujalagi (INT 68),2,1,1,2,2,2,2,0.87,0
+Mrs. Madhuri Jayant Sadegaonkar (INT 66),1,2,2,2,2,2,2,0.86,0
+Mrs. Anuradha Lal (INT 91),1,1,2,2,2,2,1,0.81,0
+Ms. Rajasree Dash (INT 97),2,2,1,2,2,2,1,0.70,0
+Mrs. Rumana Kazi (INT 65),2,1,2,2,2,2,1,0.89,0
+Mrs. Priya Monika Dcruz (INT 84),1,2,2,2,1,1,2,0.45,0
+Mrs. Bandana Kumari Elan (INT 90),2,2,2,2,2,2,1,0.85,0
+Mrs. Rajani Mangala (INT 76),2,2,1,2,2,2,1,0.70,0
+Ms. Vandana V Mordani (INT 71),1,2,1,2,2,1,2,0.60,0
+Mrs. Padmaja Ramanavarapu (INT 88),2,1,1,2,2,1,2,0.80,0
+Mrs. Pareezad Birje (INT 68),1,1,1,2,2,2,2,0.79,0
+Mrs. Kamlesh Sanjay Sharma (INT 75),1,2,2,2,2,2,2,0.86,0
+Ms. Radhika Kandhari (INT 68),2,2,2,2,2,2,1,0.85,0
+Mrs. Shivani Goyal (INT 72),1,1,1,2,2,2,2,0.79,0
+Mrs. Anuradha Goyal (INT 67),1,2,1,2,2,1,2,0.60,0
+Mrs. Tauqeer Bano (INT 59),1,2,2,2,2,1,2,0.78,0
+Mrs. Anela Mathew (INT 77),2,2,1,2,2,1,1,0.57,0
+Mrs. Rashmi Pushkar Padhye (INT 96),1,2,2,2,2,2,2,0.86,0
+Mrs. Kirshna Veni S (INT 72),1,2,2,2,2,2,2,0.86,0
+Mrs. Aparna Nagaraj (INT 97),1,1,1,2,2,1,2,0.68,0
+Mrs. Pratima Venkatgiri (INT 92),2,1,1,2,2,1,2,0.80,0
+Mrs. Ranjna Ajay Tanwani (INT 80),2,2,1,2,2,1,1,0.57,0
+Mrs. Hema Shreekumar (INT 78),2,1,1,2,2,1,2,0.80,0
+Ms. Richa Sharma (INT 97),1,1,2,2,2,1,2,0.84,0
+Mrs. Jayshree JOFFERY MONTHERO (INT 71),1,2,1,2,2,2,2,0.72,0
+Mrs. Sanchita Parthasarathi Bardhan (INT 91),1,2,1,2,2,2,2,0.72,0
+Mrs. Alpana Anand Garg (INT 78),1,1,2,2,2,1,1,0.71,0
+Dr. Smita Ravindra Deshmukh (INT 82),1,1,1,2,2,1,1,0.50,0
+Mrs. Suman Sharma (INT 73),2,1,1,2,2,1,2,0.80,0
+Mrs. Rashmi Gupta (INT 72),1,2,1,2,2,1,1,0.42,0
+Mrs. Mala   Bhasker (INT 73),1,2,2,2,2,2,1,0.75,0
+Mrs. Rachna Bhat (INT 71),2,2,2,2,2,2,2,0.92,0
+Mrs. Meera Nangia (INT 84),2,2,1,2,2,1,1,0.57,0
+Mrs. Vijayalakshmi Baskaran (INT 86),1,1,2,2,2,1,1,0.71,0
+Mrs. Mary Swapan Palamadai (INT 96),2,2,1,2,2,2,1,0.70,0
+Mrs. Latha Sairam Sairam (INT 72),1,2,1,2,1,1,2,0.26,0
+Mrs. Ranjana Sanjay Mathur (INT 73),2,2,2,2,2,1,1,0.76,0
+Mrs. Purnima Vidyadhar Belgaonkar (INT 80),1,2,2,2,2,1,2,0.78,0
+Mrs. Varuni Chaudhary (INT 67),2,1,2,2,2,1,1,0.82,0
+Mrs. Sharada Singireddy (INT 68),2,2,2,2,2,1,2,0.87,0
+Mrs. Indira Surajit Baruah (INT 70),1,2,1,2,2,2,1,0.55,0
+Mrs. Mukta Kumar (INT 68),2,2,2,2,2,2,2,0.92,0
+Dr. Saraswathi Devi A. (INT 87),2,2,2,2,2,1,2,0.87,0
+Mrs. Hema Ravi (INT 80),1,1,2,2,2,1,1,0.71,0
+Mrs. Madhusmita Sahoo (INT 91),1,2,1,2,2,1,2,0.60,0
+Mrs. Mamta Bharadwaj (INT 72),1,2,1,2,2,2,1,0.55,0
+Mrs. Himani Nishith Shah (INT 94),1,2,2,2,1,2,1,0.40,0
+Mrs. Ranjana Tripathi (INT 94),2,2,2,1,2,1,2,0.06,0
+Mrs. Caroline Cardoz (INT 68),2,1,1,2,2,1,2,0.80,0
+Mrs. Indira Bhanushali (INT 79),2,2,2,2,2,1,2,0.87,0
+Mrs. Kamakshi Iyer (INT 93),2,1,2,2,2,1,1,0.82,0
+Mrs. Nirja Hakim (INT 72),1,2,2,2,2,1,2,0.78,0
+Dr. Vijaya Zulal Mali (INT 73),2,2,2,2,2,2,1,0.85,0
+Dr. Kanwal V (INT 67),2,1,2,2,2,1,1,0.82,0
