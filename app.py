@@ -9,7 +9,7 @@ from sklearn.metrics import roc_curve
 # Load dataset (Make sure 'data.csv' is in the same GitHub repo)
 @st.cache
 def load_data():
-    return pd.read_excel("data.xlsx")
+    return pd.read_excel("./data.xlsx")
 
 data = load_data()
 
