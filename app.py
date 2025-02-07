@@ -1,3 +1,6 @@
+import os
+st.write(f"Current Working Directory: {os.getcwd()}")
+st.write(f"Files in Directory: {os.listdir()}")
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
